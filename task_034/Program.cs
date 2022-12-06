@@ -21,7 +21,6 @@ int[] AddArrayWithRundomNumbers(int lenght, int min, int max)
     return arr;
 }
 
-
 int EvenNumbers(int[] arr)
 {
     int count = 0;
